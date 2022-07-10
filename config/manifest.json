@@ -1,6 +1,6 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "FwelTrac",
+  "short_name": "FwelTrac",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
